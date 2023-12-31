@@ -23,7 +23,7 @@ This program uses the `psutil` library to monitor the write speed of the disk. I
 2. Run the script:
 
    ```bash
-   python script.py
+   python main_script.py
    ```
 
    **Note:** The program cannot be interrupted using Ctrl+C.
@@ -49,6 +49,3 @@ The program cannot be interrupted using Ctrl+C. It terminates immediately when h
 ## License
 
 This program is licensed under the [MIT License](LICENSE).
-
-
-Remember to replace "script.py" with the actual name of your Python script, and update the content as needed.
