@@ -1,4 +1,3 @@
-```markdown
 # IO Speed Monitor
 
 A simple Python program to monitor disk I/O speed and take actions based on the detected speed.
@@ -50,6 +49,6 @@ The program cannot be interrupted using Ctrl+C. It terminates immediately when h
 ## License
 
 This program is licensed under the [MIT License](LICENSE).
-```
+
 
 Remember to replace "script.py" with the actual name of your Python script, and update the content as needed.
